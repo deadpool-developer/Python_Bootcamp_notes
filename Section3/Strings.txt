@@ -1,0 +1,13 @@
+1. Strings are the ordered sequences in which the elements can be accessed with the help of the index values.
+2. Indexing uses square brackets [] and a number index to indicate positions of what you wish to grab.
+3. Character: h  e  l  l  o 
+    index   : 0  1  2  3  4
+    Reverse : 0 -4 -3 -2 -1
+
+4. Slicing allows you to grab subsection of multiple characters, a "slice" of the string.
+5. This has the following syntax:
+    [start:stop:step]
+6. Escape sequences -> \n(next line)  or \t(tab)
+    print("hello \nworld) -> hello 
+                             world
+7. length function -> len
