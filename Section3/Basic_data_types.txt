@@ -1,0 +1,8 @@
+1. Integers -> int -> 3,300,200
+2. Floating point -> float -> 2.3,4.6
+3. Strings -> str -> "hello", "Aditya"
+4. Lists -> list -> Ordered sequence of objects -> [10,"hello",200.3]
+5. Dictionaries -> dict -> Unordered key:value pairs : {"myKey} : "value", "name" : "Aditya"}
+6. Tuples -> tup -> Ordered immutable(cannot change) sequence of objects -> (10,"hello",200.3)
+7. Sets -> set -> Unordered collection of unique objects -> {"a","b"}
+8. booleans -> bool -> Logical value indicating True or False.
