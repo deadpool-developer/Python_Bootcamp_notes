@@ -26,6 +26,6 @@ elif loc =="Bank":
 elif loc ==" Store":
     print("Welcome to the Store")
 else:
-    print("I donot know much")
+    print("I do not know much")
 
     
